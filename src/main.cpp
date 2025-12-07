@@ -1,3 +1,8 @@
 #include <iostream>
 #include <raylib.h>
-int main() {}
+int main() {
+
+  InitWindow(800, 600, "PONG");
+
+  CloseWindow();
+}

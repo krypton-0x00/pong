@@ -1,3 +1,0 @@
-/home/zazzu/projects/pong-game-cpp/build/CMakeFiles/pong.dir
-/home/zazzu/projects/pong-game-cpp/build/CMakeFiles/edit_cache.dir
-/home/zazzu/projects/pong-game-cpp/build/CMakeFiles/rebuild_cache.dir
